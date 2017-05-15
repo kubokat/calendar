@@ -5,3 +5,5 @@
 <p>Mysql dump in the root directory</p>
 
 <p>DataBase config in /config/database.php</p>
+
+<p>The local server should look in public folder</p>
